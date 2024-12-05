@@ -1,6 +1,6 @@
 # Python-Socket-MastermindGame
 
-This project was developed by me and my university teammates as part of a course, utilizing socket programming to create a multiplayer Mastermind game. The game allows multiple players to connect to a server and take turns guessing a 6-digit secret code, with real-time feedback provided after each guess.
+  This project was developed by me and my university teammates as part of a course, utilizing socket programming to create a multiplayer Mastermind game. The game allows multiple players to connect to a server and take turns guessing a 6-digit secret code, with real-time feedback provided after each guess.
 
 ## Features
 - Multiplayer Support: 2-5 players can connect to the server and play.
@@ -16,6 +16,7 @@ This project was developed by me and my university teammates as part of a course
 - Random: Used to generate the 6-digit secret code for the game.
 
 # How the Game Works
+
 
 ## Server
 - The server listens for incoming connections from players and manages the game.
